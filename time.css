@@ -1,0 +1,34 @@
+
+table, th, td {
+    border: 2px solid rgb(132, 181, 181);
+    height: 40px;
+  
+  }
+  /* .a{
+      width: 100%;
+  } */
+  .b{
+      /* width: 100%; */
+      background-color:  rgb(80, 84, 140);
+  }
+  .H{
+      background-color: blueviolet;
+      color: white;
+  }
+  .sty{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  }
+  .y{
+      text-align: center;
+      color: #f4f1e9;
+  }
+  .head{
+      text-align: center;
+      background-color: rgb(244, 243, 245);
+      color: rgb(63, 59, 201);
+  }
+  .ab{
+      background-color: #6abb41;
+  }
